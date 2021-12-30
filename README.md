@@ -12,7 +12,7 @@ This library ALSO REQUIRES [Sean Barrett's stb_truetype.h](https://github.com/no
 #include "SDL_VTXT.h"
 ```
 
-See example.c file for more details.
+See [example.c](https://github.com/gusarba/SDL_VTXT/blob/master/example.c) file for more details.
 This example includes the [Sweet16](https://github.com/kmar/Sweet16Font) and [Open Sans](https://github.com/googlefonts/opensans) fonts.
 
 Public domain.
