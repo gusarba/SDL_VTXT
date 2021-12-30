@@ -1,6 +1,8 @@
 # SDL_VTXT
 A quick and dirty SDL_Renderer wrapper for the awesome [vertext](https://github.com/kevinmkchin/vertext) library by Kevin Chin, which is required. It allows the vertetx objects to be rendered by SDL_Renderer as geometry. It only supports Screen Space coordinates.
 
+![](https://github.com/gusarba/SDL_VTXT/blob/master/capture.png?raw=true)
+
 This library ALSO REQUIRES [Sean Barrett's stb_truetype.h](https://github.com/nothings/stb/blob/master/stb_truetype.h) library (which is also a single header). Include like so:
 
 ```cpp
